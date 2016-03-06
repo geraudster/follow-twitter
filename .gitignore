@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .httr-oauth
+credentials.sh
+log
+ggmapTemp.png
